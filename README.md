@@ -14,11 +14,7 @@ npm i -g openskills
 2. Install Skills
 
 ```bash
-# Install from Anthropic's marketplace (interactive selection, default: project)
-openskills install anthropics/skills
-
-# Or install from any GitHub repo
-openskills install your-org/custom-skills
+openskills install mr-pounds/z-skills
 ```
 3. Sync to AGENTS.md
 NOTE: You must have a pre-existing AGENTS.md file for sync to update.
