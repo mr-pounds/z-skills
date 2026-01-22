@@ -55,3 +55,7 @@ Done! Your agent now has skills with the same <available_skills> format as Claud
 ## 创建 Skill
 
 使用 `skill-creator` 技能。
+
+## Rules
+
+参考：https://cursor.directory/
